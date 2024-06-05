@@ -1,0 +1,40 @@
+*{
+    font-family:times new roman;
+}
+body{
+    margin:20px;
+    padding:20px;
+    background: linear-gradient(orange,yellow);
+    border: 5px solid red;
+    border-radius:20px;
+}
+.judul1{
+    color:red;
+}
+.isi1{
+    color:red;
+}
+.judul2{
+    color:red;
+}
+.isi2{
+    color:red;
+}
+.judul3{
+    color:red;
+}
+.isi3{
+    color:red;
+}
+.judul4{
+    color:red;
+}
+.isi4{
+    color:red;
+}
+.judul5{
+    color:red;
+}
+.isi5{
+    color:red;
+}
